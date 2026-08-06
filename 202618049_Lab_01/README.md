@@ -33,6 +33,7 @@ Price vs. Rating Relationship
 Price is not related to star ratings. High-rated 5-star books are present at both cheap (15 pounds) and expensive (50+ pounds) price points.
 
 Category Analysis
+
 Most Represented Categories: Travel and Sequential Art (highest total volume of listed books).
 Most Expensive Categories: Travel and Science Fiction (highest average price per book).
 
