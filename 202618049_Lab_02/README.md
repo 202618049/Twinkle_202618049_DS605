@@ -35,7 +35,7 @@ This repository contains a complete exploratory data analysis (EDA) and data pre
 
 ## Repository Structure
 ```text
-├── 202618049_Lab02.ipynb    # Main runnable Jupyter/Colab Notebook
+├── 202618049_Lab02.ipynb    # Main runnable Colab Notebook
 ├── train.csv                # Original Titanic Dataset
 ├── cleaned_train.csv        # Preprocessed Titanic Dataset
 └── README.md                # Project details and observations
