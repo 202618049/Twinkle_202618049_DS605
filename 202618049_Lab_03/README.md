@@ -1,7 +1,11 @@
 DS605 Fundamentals of Machine Learning
+
 Name: Twinkle Chauhan
+
 Student ID: 202618049
+
 Lab 03: Scikit-learn Data Preprocessing & Model Evaluation
+
 
 Date: 21 August 2026
 Dataset: Hotel Bookings Dataset (hotel_bookings.csv)
@@ -9,6 +13,8 @@ Dataset: Hotel Bookings Dataset (hotel_bookings.csv)
 Project Details
 
 This repository contains a complete Scikit-learn machine learning workflow on the Hotel Bookings dataset. It covers data cleaning, missing value imputation, outlier detection, data leakage prevention, modular preprocessing pipelines (ColumnTransformer), and model performance evaluation comparing Logistic Regression and Decision Tree classifiers.
+
+
 
 TASKS COMPLETED
 
