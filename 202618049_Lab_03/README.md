@@ -65,7 +65,11 @@ Overfitting Analysis: Logistic Regression showed high generalization with minima
 Repository Structure
 
 202618049_Lab_03/
+
 ├── 202618049_Lab03.ipynb       # Main runnable Colab Notebook
+
 ├── hotel_bookings.csv          # Original Hotel Bookings Dataset
+
 ├── cleaned_hotel_bookings.csv  # Preprocessed Base Dataset
+
 └── README.md                   # Project details and observations
