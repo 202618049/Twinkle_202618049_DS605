@@ -14,7 +14,7 @@
 
 ### Smart Airbnb Price Intelligence using Machine Learning
 
-🌐 **Live Demo:** https://YOUR-STREAMLIT-LINK.streamlit.app/
+🌐 **Live Demo:** https://stay-predict-ai.streamlit.app/
 
 
 ## Project Details
