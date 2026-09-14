@@ -26,8 +26,11 @@ st.set_page_config(
 
 @st.cache_resource
 def load_model():
-    return joblib.load("airbnb_price_pipeline.pkl")
-
+    model_path = os.path.join(
+        os.path.dirname(os.path.abspath(__file__)),
+        "airbnb_price_pipeline.pkl"
+    )
+    return joblib.load(model_path)
 
 model = load_model()
 
