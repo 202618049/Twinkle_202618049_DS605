@@ -114,10 +114,6 @@ The application accepts relevant Airbnb listing information such as:
 
 The application uses the saved machine learning pipeline to generate an estimated Airbnb nightly price.
 
-### 🌐 Deployed Application
-
-**Live Link:**  
-https://YOUR-STREAMLIT-LINK.streamlit.app/
 
 ---
 
@@ -155,4 +151,4 @@ The trained model was integrated into a Streamlit application that allows users 
 ├── airbnb_price_pipeline.pkl        # Saved ML Pipeline
 ├── requirements.txt                 # Required Libraries
 ├── AB_NYC_2019.csv                  # Airbnb Dataset
-└── README.md                         # Project Documentation
+└── README.md                        # Project Documentation
