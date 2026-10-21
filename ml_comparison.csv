@@ -1,5 +1,0 @@
-Method,Features per Image,Accuracy (%)
-Raw Pixel Nearest Neighbor,10304,98.75
-PCA Nearest Neighbor,99,98.75
-KNN on PCA Features,99,96.25
-SVM on PCA Features,99,98.75
