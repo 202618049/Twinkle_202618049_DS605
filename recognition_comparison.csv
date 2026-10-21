@@ -1,3 +1,0 @@
-Method,Features per Image,Correct Predictions,Total Test Images,Accuracy (%)
-Raw Pixel Nearest Neighbor,10304,79,80,98.75
-PCA Nearest Neighbor,99,79,80,98.75
