@@ -1,11 +1,12 @@
-# DS605 Lab 8: Decision Trees and Support Vector Machines
+DS605 Fundamentals of Machine Learning
 
-## Course Information
+Name: Twinkle Chauhan
 
-- **Course:** DS605 – Fundamentals of Machine Learning
-- **Lab:** Lab 08
-- **Topic:** Decision Trees and Support Vector Machines (SVM)
-- **Dataset:** UCI Banknote Authentication Dataset
+Student ID: 202618049
+
+Lab 08: Decision Trees and Support Vector Machines (SVM
+
+Dataset: UCI Banknote Authentication Dataset
 
 ---
 
